@@ -1,6 +1,4 @@
-<img src="docs/icon.png" width="96" alt="Stash icon">
-
-# Stash
+<h1><img src="docs/icon.png" width="72" height="72" align="absmiddle" alt="Stash icon">&nbsp; Stash</h1>
 
 ### Your Mac's clipboard, with a memory.
 
