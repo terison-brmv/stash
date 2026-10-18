@@ -1,10 +1,8 @@
-<img src="docs/icon.png" width="88" align="left" alt="Stash icon">
+<img src="docs/icon.png" width="96" alt="Stash icon">
 
 # Stash
 
 ### Your Mac's clipboard, with a memory.
-
-&nbsp;
 
 macOS remembers only the **last** thing you copied. Stash remembers **days** of it — text, links, screenshots, files — in a quiet little window that lives in your menu bar. Copy as usual; when you need something from earlier, it's one click away.
 
