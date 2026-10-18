@@ -1,0 +1,11 @@
+name: Idea or suggestion
+description: Something Stash could do better or a feature you'd like
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the situation where you needed it. Please write in English or Russian.
+    validations:
+      required: true

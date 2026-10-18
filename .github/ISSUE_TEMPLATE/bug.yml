@@ -1,0 +1,32 @@
+name: Something is broken
+description: Stash crashed, copied something wrong or looks off
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping make Stash better. Please write in English or Russian.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you copy or click, what did you expect, what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: Stash version
+      description: Settings → About
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "26.0"
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshot or anything else
